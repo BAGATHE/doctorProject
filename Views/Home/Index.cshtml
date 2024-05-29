@@ -1,0 +1,72 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    CaracteristiqueCorps[] parametres = Model;
+}
+
+<!-- Banner Area Starts -->
+    
+    <!-- Banner Area End -->
+
+    <!-- Feature Area Starts -->
+    
+    <!-- Feature Area End -->
+
+    <!-- Welcome Area Starts -->
+    
+    <!-- Welcome Area End -->
+
+    <!-- Department Area Starts -->
+    
+    <!-- Department Area Starts -->
+
+    <!-- Patient Area Starts -->
+    <section class="patient-area section-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 offset-lg-3">
+                    <div class="section-top text-center">
+                        <h2>Patient are saying</h2>
+                        <p>Green above he cattle god saw day multiply under fill in the cattle fowl a all, living, tree word link available in the service for subdue fruit.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-5 offset-lg-1 align-self-center">
+                    <div class="appointment-form text-center mt-5 mt-lg-0">
+                        <h3 class="mb-5">Make a diagnosis</h3>
+                        <form action="@Url.Action("Index", "Diagnosis")" style="color: white;" method="post">
+                            <div class="form-group">
+                                <label for="">Your Age</label>
+                                <input type="number" name="age" required>
+                            </div>
+                            <fieldset>
+                                <legend>Parameters (0 to 10)</legend>
+                                @for (int i = 0; i < parametres.Length; i++)
+                                {
+                                    <div class="form-group">
+                                        <label for="">@parametres[i].Nom</label>
+                                        <input type="hidden" name="idParameter" value="@parametres[i].Id">
+                                        <input type="text" name="parameterValue"  required> 
+                                    </div>
+                                }
+                            </fieldset>
+                            <button type="submit" class="template-btn">diagnose now</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Patient Area Starts -->
+
+    <!-- Specialist Area Starts -->
+    
+    <!-- Specialist Area Starts -->
+
+    <!-- Hotline Area Starts -->
+    
+    <!-- Hotline Area End -->
+
+    <!-- News Area Starts -->
+    
+    <!-- News Area Starts -->

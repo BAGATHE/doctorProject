@@ -1,0 +1,813 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Docteur.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Docteur.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\css\\animate-3.7.0.css",
+      "PackagePath": "staticwebassets\\css\\animate-3.7.0.css"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\css\\bootstrap-4.1.3.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-4.1.3.min.css"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\css\\font-awesome-4.7.0.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome-4.7.0.min.css"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\css\\jquery.datetimepicker.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.datetimepicker.min.css"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\css\\linearicons.css",
+      "PackagePath": "staticwebassets\\css\\linearicons.css"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\css\\owl-carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl-carousel.min.css"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\css\\style.map",
+      "PackagePath": "staticwebassets\\css\\style.map"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\fonts\\Linearicons-Free.eot",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free.eot"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\fonts\\Linearicons-Free.svg",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free.svg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\fonts\\Linearicons-Free.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free.ttf"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\fonts\\Linearicons-Free.woff",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free.woff"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\fonts\\Linearicons-Free.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free.woff2"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\banner-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\banner-bg.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\blog-details\\c1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-details\\c1.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\blog-details\\c2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-details\\c2.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\blog-details\\c3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-details\\c3.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\blog-details\\c4.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-details\\c4.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\blog-details\\c5.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-details\\c5.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\blog-details\\c6.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-details\\c6.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\blog-details\\feature-img1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-details\\feature-img1.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\blog-details\\next.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-details\\next.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\blog-details\\post-img1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-details\\post-img1.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\blog-details\\post-img2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-details\\post-img2.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\blog-details\\prev.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-details\\prev.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\blog\\add.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\add.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\blog\\author.png",
+      "PackagePath": "staticwebassets\\images\\blog\\author.png"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\blog\\cat-post\\cat-post-1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\cat-post\\cat-post-1.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\blog\\cat-post\\cat-post-2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\cat-post\\cat-post-2.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\blog\\cat-post\\cat-post-3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\cat-post\\cat-post-3.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\blog\\main-blog\\m-blog-1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\main-blog\\m-blog-1.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\blog\\main-blog\\m-blog-2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\main-blog\\m-blog-2.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\blog\\main-blog\\m-blog-3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\main-blog\\m-blog-3.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\blog\\main-blog\\m-blog-4.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\main-blog\\m-blog-4.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\blog\\main-blog\\m-blog-5.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\main-blog\\m-blog-5.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\blog\\popular-post\\post1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\popular-post\\post1.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\blog\\popular-post\\post2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\popular-post\\post2.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\blog\\popular-post\\post3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\popular-post\\post3.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\blog\\popular-post\\post4.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\popular-post\\post4.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\department1.jpg",
+      "PackagePath": "staticwebassets\\images\\department1.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\department2.jpg",
+      "PackagePath": "staticwebassets\\images\\department2.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\department3.jpg",
+      "PackagePath": "staticwebassets\\images\\department3.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\doctor1.jpg",
+      "PackagePath": "staticwebassets\\images\\doctor1.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\doctor2.jpg",
+      "PackagePath": "staticwebassets\\images\\doctor2.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\doctor3.jpg",
+      "PackagePath": "staticwebassets\\images\\doctor3.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\doctor4.jpg",
+      "PackagePath": "staticwebassets\\images\\doctor4.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\elements\\_DS_Store",
+      "PackagePath": "staticwebassets\\images\\elements"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\elements\\a.jpg",
+      "PackagePath": "staticwebassets\\images\\elements\\a.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\elements\\a2.jpg",
+      "PackagePath": "staticwebassets\\images\\elements\\a2.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\elements\\d.jpg",
+      "PackagePath": "staticwebassets\\images\\elements\\d.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\elements\\disabled-check.png",
+      "PackagePath": "staticwebassets\\images\\elements\\disabled-check.png"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\elements\\disabled-radio.png",
+      "PackagePath": "staticwebassets\\images\\elements\\disabled-radio.png"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\elements\\f1.jpg",
+      "PackagePath": "staticwebassets\\images\\elements\\f1.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\elements\\f2.jpg",
+      "PackagePath": "staticwebassets\\images\\elements\\f2.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\elements\\f3.jpg",
+      "PackagePath": "staticwebassets\\images\\elements\\f3.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\elements\\f4.jpg",
+      "PackagePath": "staticwebassets\\images\\elements\\f4.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\elements\\f5.jpg",
+      "PackagePath": "staticwebassets\\images\\elements\\f5.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\elements\\f6.jpg",
+      "PackagePath": "staticwebassets\\images\\elements\\f6.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\elements\\f7.jpg",
+      "PackagePath": "staticwebassets\\images\\elements\\f7.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\elements\\f8.jpg",
+      "PackagePath": "staticwebassets\\images\\elements\\f8.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\elements\\g1.jpg",
+      "PackagePath": "staticwebassets\\images\\elements\\g1.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\elements\\g2.jpg",
+      "PackagePath": "staticwebassets\\images\\elements\\g2.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\elements\\g3.jpg",
+      "PackagePath": "staticwebassets\\images\\elements\\g3.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\elements\\g4.jpg",
+      "PackagePath": "staticwebassets\\images\\elements\\g4.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\elements\\g5.jpg",
+      "PackagePath": "staticwebassets\\images\\elements\\g5.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\elements\\g6.jpg",
+      "PackagePath": "staticwebassets\\images\\elements\\g6.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\elements\\g7.jpg",
+      "PackagePath": "staticwebassets\\images\\elements\\g7.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\elements\\g8.jpg",
+      "PackagePath": "staticwebassets\\images\\elements\\g8.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\elements\\primary-check.png",
+      "PackagePath": "staticwebassets\\images\\elements\\primary-check.png"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\elements\\primary-radio.png",
+      "PackagePath": "staticwebassets\\images\\elements\\primary-radio.png"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\elements\\success-check.png",
+      "PackagePath": "staticwebassets\\images\\elements\\success-check.png"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\elements\\success-radio.png",
+      "PackagePath": "staticwebassets\\images\\elements\\success-radio.png"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\elements\\user1.png",
+      "PackagePath": "staticwebassets\\images\\elements\\user1.png"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\elements\\user2.png",
+      "PackagePath": "staticwebassets\\images\\elements\\user2.png"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\feature1.png",
+      "PackagePath": "staticwebassets\\images\\feature1.png"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\feature2.png",
+      "PackagePath": "staticwebassets\\images\\feature2.png"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\feature3.png",
+      "PackagePath": "staticwebassets\\images\\feature3.png"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\feature4.png",
+      "PackagePath": "staticwebassets\\images\\feature4.png"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\feed1.jpg",
+      "PackagePath": "staticwebassets\\images\\feed1.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\feed2.jpg",
+      "PackagePath": "staticwebassets\\images\\feed2.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\feed3.jpg",
+      "PackagePath": "staticwebassets\\images\\feed3.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\feed4.jpg",
+      "PackagePath": "staticwebassets\\images\\feed4.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\feed5.jpg",
+      "PackagePath": "staticwebassets\\images\\feed5.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\feed6.jpg",
+      "PackagePath": "staticwebassets\\images\\feed6.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\feed7.jpg",
+      "PackagePath": "staticwebassets\\images\\feed7.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\feed8.jpg",
+      "PackagePath": "staticwebassets\\images\\feed8.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\hotline-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\hotline-bg.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\logo\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\logo\\favicon.png"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo\\logo.png"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\news1.jpg",
+      "PackagePath": "staticwebassets\\images\\news1.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\news2.jpg",
+      "PackagePath": "staticwebassets\\images\\news2.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\news3.jpg",
+      "PackagePath": "staticwebassets\\images\\news3.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\patient.jpg",
+      "PackagePath": "staticwebassets\\images\\patient.jpg"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\patient1.png",
+      "PackagePath": "staticwebassets\\images\\patient1.png"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\patient2.png",
+      "PackagePath": "staticwebassets\\images\\patient2.png"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\images\\welcome.png",
+      "PackagePath": "staticwebassets\\images\\welcome.png"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\js\\vendor\\bootstrap-4.1.3.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\bootstrap-4.1.3.min.js"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\js\\vendor\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\gmaps.min.js"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\js\\vendor\\jquery-2.2.4.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery-2.2.4.min.js"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\js\\vendor\\jquery.datetimepicker.full.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery.datetimepicker.full.min.js"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\js\\vendor\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\js\\vendor\\owl-carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\owl-carousel.min.js"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\js\\vendor\\superfish.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\superfish.min.js"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\js\\vendor\\wow.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\wow.min.js"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\sass\\base\\_base.scss",
+      "PackagePath": "staticwebassets\\sass\\base\\_base.scss"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\sass\\layout\\_about.scss",
+      "PackagePath": "staticwebassets\\sass\\layout\\_about.scss"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\sass\\layout\\_banner.scss",
+      "PackagePath": "staticwebassets\\sass\\layout\\_banner.scss"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\sass\\layout\\_blog-details.scss",
+      "PackagePath": "staticwebassets\\sass\\layout\\_blog-details.scss"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\sass\\layout\\_blog-home.scss",
+      "PackagePath": "staticwebassets\\sass\\layout\\_blog-home.scss"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\sass\\layout\\_contact.scss",
+      "PackagePath": "staticwebassets\\sass\\layout\\_contact.scss"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\sass\\layout\\_department.scss",
+      "PackagePath": "staticwebassets\\sass\\layout\\_department.scss"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\sass\\layout\\_departments-page.scss",
+      "PackagePath": "staticwebassets\\sass\\layout\\_departments-page.scss"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\sass\\layout\\_elements.scss",
+      "PackagePath": "staticwebassets\\sass\\layout\\_elements.scss"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\sass\\layout\\_feature.scss",
+      "PackagePath": "staticwebassets\\sass\\layout\\_feature.scss"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\sass\\layout\\_footer.scss",
+      "PackagePath": "staticwebassets\\sass\\layout\\_footer.scss"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\sass\\layout\\_header.scss",
+      "PackagePath": "staticwebassets\\sass\\layout\\_header.scss"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\sass\\layout\\_hotline.scss",
+      "PackagePath": "staticwebassets\\sass\\layout\\_hotline.scss"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\sass\\layout\\_nav.scss",
+      "PackagePath": "staticwebassets\\sass\\layout\\_nav.scss"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\sass\\layout\\_news.scss",
+      "PackagePath": "staticwebassets\\sass\\layout\\_news.scss"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\sass\\layout\\_patient.scss",
+      "PackagePath": "staticwebassets\\sass\\layout\\_patient.scss"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\sass\\layout\\_preloader.scss",
+      "PackagePath": "staticwebassets\\sass\\layout\\_preloader.scss"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\sass\\layout\\_specialist.scss",
+      "PackagePath": "staticwebassets\\sass\\layout\\_specialist.scss"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\sass\\layout\\_welcome.scss",
+      "PackagePath": "staticwebassets\\sass\\layout\\_welcome.scss"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\sass\\module\\_btn.scss",
+      "PackagePath": "staticwebassets\\sass\\module\\_btn.scss"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\sass\\module\\_form.scss",
+      "PackagePath": "staticwebassets\\sass\\module\\_form.scss"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\sass\\module\\_other.scss",
+      "PackagePath": "staticwebassets\\sass\\module\\_other.scss"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\sass\\setting\\_mixin.scss",
+      "PackagePath": "staticwebassets\\sass\\setting\\_mixin.scss"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\sass\\setting\\_variable.scss",
+      "PackagePath": "staticwebassets\\sass\\setting\\_variable.scss"
+    },
+    {
+      "Id": "E:\\L3\\S5\\dotnet\\Docteur\\wwwroot\\sass\\style.scss",
+      "PackagePath": "staticwebassets\\sass\\style.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Docteur.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Docteur.props",
+      "PackagePath": "build\\Docteur.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Docteur.props",
+      "PackagePath": "buildMultiTargeting\\Docteur.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Docteur.props",
+      "PackagePath": "buildTransitive\\Docteur.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
